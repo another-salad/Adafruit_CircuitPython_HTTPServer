@@ -60,7 +60,6 @@ from .response import (
     JSONResponse,
     Redirect,
     SSEResponse,
-    Websocket,
 )
 from .route import Route, as_route
 from .server import (

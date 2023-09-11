@@ -31,7 +31,6 @@ HTTP Server for CircuitPython.
 - Supports chunked transfer encoding.
 - Supports URL parameters and wildcard URLs.
 - Supports HTTP Basic and Bearer Authentication on both server and route per level.
-- Supports Websockets and Server-Sent Events.
 
 
 Dependencies
